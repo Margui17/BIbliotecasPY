@@ -1,0 +1,1 @@
+// Aquí podemos agregar funcionalidades adicionales con JavaScript
